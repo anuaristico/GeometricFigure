@@ -1,0 +1,7 @@
+dim 50 50 50
+putSphere 5 5 5 4 255 0 0 255
+cutSphere 3 5 5 2
+putBox 20 27 20 27 20 27 0 255 0 255
+cutBox 18 25 18 25 18 25
+putEllipsoid 38 38 38 5 7 5 0 0 255 255
+cutEllipsoid 36 38 38 3 5 3
